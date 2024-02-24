@@ -1,0 +1,29 @@
+[33mcommit 964d029547b739fb47eb1179c28403692c864bac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alexander Mikhailov <alexandermikhailov0505@gmail.com>
+Date:   Thu Feb 15 22:25:38 2024 +0300
+
+    Удалён файл bad.cpp
+
+[33mcommit 69395c451347001fca330c964688d0158a70c96c[m
+Author: Alexander Mikhailov <alexandermikhailov0505@gmail.com>
+Date:   Thu Feb 15 22:24:28 2024 +0300
+
+    Добавлен файл bad.cpp
+
+[33mcommit 45a90d584d1498ef84fb3bb416949ea939fc1d43[m
+Author: Alexander Mikhailov <alexandermikhailov0505@gmail.com>
+Date:   Thu Feb 15 22:14:48 2024 +0300
+
+    Исправлен файл main.cpp
+
+[33mcommit 3dd4a826b13ccc5ea777ffef0f02b5b0b0049cd5[m
+Author: Alexander Mikhailov <alexandermikhailov0505@gmail.com>
+Date:   Thu Feb 15 21:53:56 2024 +0300
+
+    Добавлена закрывающая скобка
+
+[33mcommit 287abdea8bc687a7abede07900b1abc91b5a195e[m
+Author: Nickolay Kolesnikov <nick206265@gmail.com>
+Date:   Fri Oct 20 17:07:49 2023 +0300
+
+    first commit
